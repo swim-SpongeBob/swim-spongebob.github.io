@@ -1,0 +1,58 @@
+{
+  "id": "1670606",
+  "name": "鸟",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "908818",
+      "name": "照相机-b",
+      "font_class": "zhaoxiangjib",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "3217837",
+      "name": "照相机",
+      "font_class": "icon-",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4198403",
+      "name": "照相机",
+      "font_class": "zhaoxiangji",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12550616",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "13253754",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13253834",
+      "name": "pinterest",
+      "font_class": "pinterest",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13253920",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}

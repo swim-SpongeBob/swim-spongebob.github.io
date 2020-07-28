@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1579490168610'); /* IE9 */
+  src: url('iconfont.eot?t=1579490168610#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ0AAsAAAAACFAAAAPoAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDYINNATYCJAMUCwwABCAFhG0HVRtmB8iemjwJAhawgIIJGE3cDfHw/X7puQ82f94G2CUK0QPLqChoVdWq2hrR8VVkKzQKWVcLaMQetZlD5ATqwqkqLMRJyZ5oSV09Sf2r9jJkk51UiUlHVZP7PJfTxhKc385ymWNb7zDAOKCA9gaKsgItoES5ZXhtl+qwbhNoFvkiLtJzS8FBQRcFYqDmm8AhY1MamkMn9Cp2lmhiAVRdmim7A7wMvh//4SAOIKkZ6MrbZ2ksJP52e+ctl/5L7j0KyKfzQNxHxhZQiOeVvgF5lNsi1/TfKZwATSdJv93esG+/vfP+PwSG6kCGxv7wSEJWiB7QxlFwgtpycXKHIPGbJQj+fCPI/PVWfJh7KmgYwWt8ReZSJgtJfxo1Zohrn2CtglRWSA9IctYj8+PZDyfISLnZSs46M2IFpGabPIqgoL3affo2NdvSBeS7PSAnabGCJCjCZqvokp48IWdZKcdsi1Czy0qHXfjkiWSxULNt9y/vH00SfdcyQGrRupKCFx9zJVCkUkf5Vmp2xTVrsE/xSBPEybBTfJk5wGIpWwWSkd6l6HrBk9zrA0aFnw2/sc97eyARML10W8O0VbdSz/jH+qUEu/4+c2Njz8D30eSYM8Wyg50TN7o2t5phez67ywozhmulXVL5rnI8fTfcPG3IIODwW9uaTxxXtZWtThKEpNW7bLMgxKvKNmO9UZecyKa3pad1LACxvzo9oGCUe9GYkM8LZjNfXNrb25gcXxdiu7yiwmFAtvfiyukd/J745tUTi4NGmJn8A3Xpw50HjGj5MzZFji5W+hYGBq9KLb2KjMqwIXlabW6h5kXjkKTDadAOMJyPy30BhpJV7vOfzn9V3eQuAOQvss9/fZb3O01lDf1jfzlQT5v8lhPbHki6Uy0+X4Bfp6fL/7Gnuv6nLqWboQR7LZrMkXYwKIbUqA7IIZD4nV1/NjTt9TSGuc4ZQpeRi0hGLCDrLFELcwtV3xF6OsdoNmXs75shkoviCGyYShAm7Ucy7gOySXephfkK1bxP6JmMHM1dDD6xbyVqMkVETRixdHMHrWYEA2c7MRk2FyO+RdckppUBtxyJJnWSDvIPzBczkAGJU6wxtfLBGHM0Jwp6Op3ch3Q6gTaKggYx2F+FsTE6IICrepA/I+iBdE6ENMEQFq1ZB5oaQ2DAef0xsvD5YgivhU4TsYFUFy2HiEzUw9OC+AvsQM3QGTqRbmW8SSteMAzjuHkckUCPlg4eRMdyApqxepoGwsD8qQZkjKIFYC+uq85/eYP+HQ9AQ0+pISPkhIJQEnbQDdQGLWLdUQ5cE4OaBUFL8eQCXof8jLoWkz1uU2OMRAA=') format('woff2'),
+  url('iconfont.woff?t=1579490168610') format('woff'),
+  url('iconfont.ttf?t=1579490168610') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1579490168610#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-linkedin:before {
+  content: "\e764";
+}
+
+.icon-facebook:before {
+  content: "\e725";
+}
+
+.icon-google-plus:before {
+  content: "\e8f1";
+}
+
+.icon-twitter:before {
+  content: "\e92a";
+}
+

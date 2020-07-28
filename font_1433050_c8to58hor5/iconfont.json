@@ -1,0 +1,86 @@
+{
+  "id": "1433050",
+  "name": "曲别针",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1244195",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "2406018",
+      "name": "刷子",
+      "font_class": "fl-shuazi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "5327624",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "1013076",
+      "name": "人",
+      "font_class": "wo",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "3197713",
+      "name": "树叶",
+      "font_class": "icon-test-copy",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1203695",
+      "name": "腾讯微博",
+      "font_class": "tengxunweibo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5800632",
+      "name": "照相机",
+      "font_class": "zhaoxiangji",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1239417",
+      "name": "in",
+      "font_class": "in",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "792496",
+      "name": "bird-小鸟",
+      "font_class": "birdxiaoniao",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "1312062",
+      "name": "信封",
+      "font_class": "xinfeng",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "9509974",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
